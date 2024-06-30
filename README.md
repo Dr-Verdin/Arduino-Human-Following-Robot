@@ -21,3 +21,4 @@ Projeto de SSC0180 - Eletrônica
 | 1          | Placa de 13 x 9.5cm                            | - |
 | 1          | Peça de Acrilico (pescoço)                     | - | 
 | 1          | Mascara de acrilico para a cabeça              | - |
+| **TOTAL**  |                                                | R$
