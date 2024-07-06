@@ -15,9 +15,9 @@ O material utilizado está disponivel na pasta "Material".
 | 1          | Servo Motor                                    | [R$11,74](https://www.baudaeletronica.com.br/produto/micro-servo-9g-sg90-tower-pro.html) |
 | 1          | Sensor de Distância Ultrassônico               | [R$9,20](https://www.baudaeletronica.com.br/produto/sensor-de-distancia-ultrassonico-hc-sr04.html) |
 | 2          | Sensor de Obstáculo Infravermelho              | [R$6,30](https://www.baudaeletronica.com.br/produto/modulo-sensor-de-obstaculo-infravermelho-ir.html) |
-| 2          | Kit 2 Baterias Recarregáveis 18650 3.7v 4.2v Li-ion | [R$30,00](https://produto.mercadolivre.com.br/MLB-1792812106-kit-2-bateria-recarregavel-18650-37v-42v-li-ion-lanterna-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Ddbb92f25-839f-4a18-8795-f224b35d7b48) |
+| 2          | Kit 2 Baterias Recarregáveis 18650 3.7V-4.2V Li-ion | [R$30,00](https://produto.mercadolivre.com.br/MLB-1792812106-kit-2-bateria-recarregavel-18650-37v-42v-li-ion-lanterna-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Ddbb92f25-839f-4a18-8795-f224b35d7b48) |
 | 1          | Suporte para 3 Baterias de Litio 18650         | [R$18,98](https://produto.mercadolivre.com.br/MLB-2656593580-suporte-case-para-3s-baterias-18650-126v-com-mola-e-fios-_JM#position%3D23%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D24d282f1-dfc9-4428-80fb-c2c0c75f4e5b) |
-|            | Base de acrílico                               |    -     |
+|            | Base de acrílico (qualquer uma serve desde que caibá os componentes) |    -     |
 | **TOTAL**  |                                                | R$204,24 |
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
@@ -42,12 +42,15 @@ A seguir estará o passo a passo para a montagem do robo de acordo com a nossa e
 
 <img src="./Material/Circuit.jpg">
 
-6. 
+6. Com todo o Hardware pronto, passamos o código para o Arduino;
+7. Voilá o robo está pronto, é só inserir as baterias e se tudo estiver certo ele funcionará. Caso queira é recomendado inserir uma chave para ligar e desligar, com isso não é necessário remover as baterias para desligá-lo.
 
 ## Desafios enfretados na execução do projeto
 
 A seguir estará listado as dificuldades que enfrentamos na realização do projeto e como solucionamos esses problemas para conseguir finalizá-lo:
 
+- O vídeo com o projeto original tem origem indiana e foi postado à 4 anos atrás, então tivemos um pequeno trabalho para identificar os componentes e buscar semelhantes caso a necessidade pedisse; 
+- Quando compramos os componentes faltantes, acabamos comprando o Suporte de Bateria igual ao do vídeo (de 2 baterias), o que foi um problema mais adiante, pois os motores da base eram de 6V (12V no total, pois só usamos dois motores DC), ou seja, precisava, no nosso caso, de um Suporte de 3 Baterias. Felizmente o nosso orientador tinha esse suporte e não precisamos comprar outro;
 - 
 
 ## Resultado final do projeto
