@@ -38,8 +38,10 @@ A seguir estará listado as dificuldades que enfrentamos na realização do proj
 ### Video do projeto
 
 ## Agradecimentos
+
 Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto.
 
 ## Alunos
+
 - Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
 - Matheus Guilherme Ferreira Mendonça Learte [(Matheus-Learte)](https://github.com/Matheus-Learte).
