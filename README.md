@@ -28,7 +28,7 @@ Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelh
 
 A seguir estará o passo a passo para a montagem do robô de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
 
-1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador ([Simões](https://gitlab.com/simoesusp)) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
+1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador (Simões) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
 2. Já com todos os componentes necessários começamos a montagem, com a base do robô já pronta (Kit motor DC + roda para Robô e base de acrílico) fixamos o Arduino e o Suporte de Bateria em cima;
 3. Logo em seguida encaixamos o Motor Shield no Arduino;
 4. Começando a montagem da cabeça:
@@ -66,7 +66,7 @@ A seguir estará listado as dificuldades que enfrentamos na realização do proj
 
 ## Agradecimentos
 
-Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto e ao nosso veterano "[Bom Dia :sun_with_face:](https://github.com/mpferreira003)" que nos ajudou à finalizar esse projeto.
+Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo "[Simões Poderoso :robot:](https://gitlab.com/simoesusp)", que nos auxiliou na execução desse projeto e ao nosso veterano "[Bom Dia :sun_with_face:](https://github.com/mpferreira003)" que nos ajudou à finalizar esse projeto.
 
 ## Alunos
 
