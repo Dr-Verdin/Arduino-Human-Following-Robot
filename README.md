@@ -20,7 +20,6 @@ O material utilizado está disponivel na pasta "Material".
 | 1          | kit 40 jumpers fêmea                           | [R$11,40](https://www.mercadolivre.com.br/cabo-wire-jumper-fmea-x-fmea-20-cm-40pcs/p/MLB28119264#searchVariation%3DMLB28119264%26position%3D2%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D4d536945-f704-4bfe-935a-49fe5ed20672)   |
 |            | Base de acrílico (qualquer uma serve desde que caibá os componentes) |    -     |
 | **TOTAL**  |                                                | R$215,64 |
->>>>>>> 532f75d4452dab1af28ec2a334cdba2d26a1af39
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
 Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robô.
