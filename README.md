@@ -11,7 +11,7 @@ O material utilizado está disponivel na pasta "Material".
 |------------|------------------------------------------------|------------------|
 | 1          | Arduino Uno                                    | [R$44,91](https://www.baudaeletronica.com.br/produto/arduino-uno-atmega328-smd-compativel-cabo-usb.html) |
 | 1          | Motor Shield L293D                             | [R$19,99](https://www.baudaeletronica.com.br/produto/motor-shield-l293d-driver-ponte-h-para-arduino.html) |
-| 2          | Kit motor DC + roda para Robô                  | [R$ 13,41](https://www.baudaeletronica.com.br/produto/kit-motor-dc-roda-para-robo.html) |
+| 2          | Kit motor DC 6V + roda para Robô               | [R$ 13,41](https://www.baudaeletronica.com.br/produto/kit-motor-dc-roda-para-robo.html) |
 | 1          | Servo Motor                                    | [R$11,74](https://www.baudaeletronica.com.br/produto/micro-servo-9g-sg90-tower-pro.html) |
 | 1          | Sensor de Distância Ultrassônico               | [R$9,20](https://www.baudaeletronica.com.br/produto/sensor-de-distancia-ultrassonico-hc-sr04.html) |
 | 2          | Sensor de Obstáculo Infravermelho              | [R$6,30](https://www.baudaeletronica.com.br/produto/modulo-sensor-de-obstaculo-infravermelho-ir.html) |
