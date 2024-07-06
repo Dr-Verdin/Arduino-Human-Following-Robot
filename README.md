@@ -26,7 +26,7 @@ Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelh
 
 A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
 
-1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador (Simões) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
+1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador ([Simões](https://gitlab.com/simoesusp)) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
 2. Já com todos os componentes necessários começamos a montagem, com a base do robo já pronta (Kit motor DC + roda para Robô)
 
 ## Desafios enfretados na execução do projeto
