@@ -25,12 +25,6 @@ O material utilizado está disponivel na pasta "Material".
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
 Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robo.
 
-## Resultado final do projeto
-### Imagens do projeto
-
-### Video do projeto
-
-
 ## Tutorial
 
 A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base).
@@ -39,6 +33,10 @@ A seguir estará o passo a passo para a montagem do robo de acordo com a nossa e
 
 ## Desafios enfretados na execução do projeto
 
+## Resultado final do projeto
+### Imagens do projeto
+
+### Video do projeto
 
 ## Agradecimentos
 Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto.
