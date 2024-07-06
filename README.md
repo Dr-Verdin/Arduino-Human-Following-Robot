@@ -24,13 +24,15 @@ Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelh
 
 ## Tutorial
 
-A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base).
+A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
 
 1. 
 
 ## Desafios enfretados na execução do projeto
 
-A seguir estará listado as dificuldades que enfrentamos na realização do projeto.
+A seguir estará listado as dificuldades que enfrentamos na realização do projeto e como solucionamos esses problemas para conseguir finalizá-lo:
+
+- 
 
 ## Resultado final do projeto
 ### Imagens do projeto
