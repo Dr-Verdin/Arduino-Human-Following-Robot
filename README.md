@@ -22,14 +22,14 @@ O material utilizado está disponivel na pasta "Material".
 | **TOTAL**  |                                                | R$215,64 |
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
-Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robo.
+Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robô.
 
 ## Tutorial
 
-A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
+A seguir estará o passo a passo para a montagem do robô de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
 
-1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador (Simões) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
-2. Já com todos os componentes necessários começamos a montagem, com a base do robo já pronta (Kit motor DC + roda para Robô e base de acrílico) fixamos o Arduino e o Suporte de Bateria em cima;
+1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador ([Simões](https://gitlab.com/simoesusp)) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
+2. Já com todos os componentes necessários começamos a montagem, com a base do robô já pronta (Kit motor DC + roda para Robô e base de acrílico) fixamos o Arduino e o Suporte de Bateria em cima;
 3. Logo em seguida encaixamos o Motor Shield no Arduino;
 4. Começando a montagem da cabeça:
     1. Fizemos peças improvisadas de papelão para a montagem da cabeça, pois o tempo era muito curto para aprendermos à mexer com uma impressora 3D da universidade:
