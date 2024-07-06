@@ -15,7 +15,7 @@ O material utilizado está disponivel na pasta "Material".
 | 1          | Servo Motor                                    | [R$11,74](https://www.baudaeletronica.com.br/produto/micro-servo-9g-sg90-tower-pro.html) |
 | 1          | Sensor de Distância Ultrassônico               | [R$9,20](https://www.baudaeletronica.com.br/produto/sensor-de-distancia-ultrassonico-hc-sr04.html) |
 | 2          | Sensor de Obstáculo Infravermelho              | [R$ 6,30](https://www.baudaeletronica.com.br/produto/modulo-sensor-de-obstaculo-infravermelho-ir.html) |
-| 3          | Bateria Recarregável 18650 Li-Ion 3,7V 3000mAh | [R$](https://www.baudaeletronica.com.br/produto/bateria-recarregavel-18650-li-ion-37v-3000mah-com-2-unidades-sem-pcm.html) |
+| 2          | Bateria Recarregável 18650 3.7v 4.2v Li-ion | [R$](https://produto.mercadolivre.com.br/MLB-1792812106-kit-2-bateria-recarregavel-18650-37v-42v-li-ion-lanterna-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Ddbb92f25-839f-4a18-8795-f224b35d7b48) |
 | 1          | Suporte para 3 Baterias de Litio 18650         | [R$9,99](https://produto.mercadolivre.com.br/MLB-2656593580-suporte-case-para-3s-baterias-18650-126v-com-mola-e-fios-_JM#position%3D23%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D24d282f1-dfc9-4428-80fb-c2c0c75f4e5b) |
 | 1          | Placa de 13 x 9.5cm                            | - |
 | 1          | Peça de Acrilico (pescoço)                     | - | 
