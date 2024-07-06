@@ -17,7 +17,8 @@ O material utilizado está disponivel na pasta "Material".
 | 2          | Sensor de Obstáculo Infravermelho              | [R$6,30](https://www.baudaeletronica.com.br/produto/modulo-sensor-de-obstaculo-infravermelho-ir.html) |
 | 2          | Kit 2 Baterias Recarregáveis 18650 3.7v 4.2v Li-ion | [R$30,00](https://produto.mercadolivre.com.br/MLB-1792812106-kit-2-bateria-recarregavel-18650-37v-42v-li-ion-lanterna-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Ddbb92f25-839f-4a18-8795-f224b35d7b48) |
 | 1          | Suporte para 3 Baterias de Litio 18650         | [R$18,98](https://produto.mercadolivre.com.br/MLB-2656593580-suporte-case-para-3s-baterias-18650-126v-com-mola-e-fios-_JM#position%3D23%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D24d282f1-dfc9-4428-80fb-c2c0c75f4e5b) |
-| 1          | Base de acrílico                               | [R$11,40](https://www.mercadolivre.com.br/cabo-wire-jumper-fmea-x-fmea-20-cm-40pcs/p/MLB28119264#searchVariation%3DMLB28119264%26position%3D2%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D4d536945-f704-4bfe-935a-49fe5ed20672)   |
+| 1          | kit 40 jumpers fêmea                           | [R$11,40](https://www.mercadolivre.com.br/cabo-wire-jumper-fmea-x-fmea-20-cm-40pcs/p/MLB28119264#searchVariation%3DMLB28119264%26position%3D2%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D4d536945-f704-4bfe-935a-49fe5ed20672)   |
+|            | Base de acrílico                               |          |
 | **TOTAL**  |                                                | R$215,64 |
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
