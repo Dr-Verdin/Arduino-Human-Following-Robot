@@ -17,6 +17,7 @@ O material utilizado está disponivel na pasta "Material".
 | 2          | Sensor de Obstáculo Infravermelho              | [R$6,30](https://www.baudaeletronica.com.br/produto/modulo-sensor-de-obstaculo-infravermelho-ir.html) |
 | 2          | Kit 2 Baterias Recarregáveis 18650 3.7v 4.2v Li-ion | [R$30,00](https://produto.mercadolivre.com.br/MLB-1792812106-kit-2-bateria-recarregavel-18650-37v-42v-li-ion-lanterna-_JM#position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3Ddbb92f25-839f-4a18-8795-f224b35d7b48) |
 | 1          | Suporte para 3 Baterias de Litio 18650         | [R$18,98](https://produto.mercadolivre.com.br/MLB-2656593580-suporte-case-para-3s-baterias-18650-126v-com-mola-e-fios-_JM#position%3D23%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D24d282f1-dfc9-4428-80fb-c2c0c75f4e5b) |
+|            | Base de acrílico                               |    -     |
 | **TOTAL**  |                                                | R$204,24 |
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
@@ -27,7 +28,21 @@ Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelh
 A seguir estará o passo a passo para a montagem do robo de acordo com a nossa experiência (não necessáriamente seguirá a mesma ordem do video base):
 
 1. Primeiramente, depois de escolhermos o projeto que queriamos executar, fomos buscar alguns componentes com o orientador (Simões) da disciplina. Felizmente adquirimos a maioria dos componentes necessários para o projeto e os que faltaram compramos numa loja de eletrônica ou confeccionamos nós mesmos;
-2. Já com todos os componentes necessários começamos a montagem, com a base do robo já pronta (Kit motor DC + roda para Robô)
+2. Já com todos os componentes necessários começamos a montagem, com a base do robo já pronta (Kit motor DC + roda para Robô e base de acrílico) fixamos o Arduino e o Suporte de Bateria em cima;
+3. Logo em seguida encaixamos o Motor Shield no Arduino;
+4. Começando a montagem da cabeça:
+    1. Fizemos peças improvisadas de papelão para a montagem da cabeça, pois o tempo era muito curto para aprendermos à mexer com uma impressora 3D da universidade:
+
+    <img src="">"moldes"
+
+    2. Com as peças já prontas colamos o Servo Motor na base maior do "pecoço";
+    3. Para a "cabeça" encaixamos a máscara no Sensor de Distância Ultrassônico e em seguida colamos os dois Sensores de Obstáculo Infravermelhos nas laterias da máscara. Também colamos uma viseira em cima da cabeça;
+    4. Com a "cabeça" e o "pescoço" prontos, colamos um no outro e depois fizamos o Servo Motor na frente da base.
+5. Em seguida, já com todos os componentes fixados na base fizemos as conecções do circuito com Jumpers:
+
+<img src="./Material/Circuit.jpg">
+
+6. 
 
 ## Desafios enfretados na execução do projeto
 
