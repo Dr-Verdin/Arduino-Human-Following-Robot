@@ -2,6 +2,7 @@
 
 ## Introdução
 
+Projeto de um Arduino Human Following Robot baseado no vídeo ["How To Make Arduino Human Following Robot"](https://www.youtube.com/watch?v=yAV5aZ0unag&t=24s) do DIY Builder.
 
 ## Lista de Componentes
 
@@ -21,7 +22,7 @@
 | 1          | Mascara de acrilico para a cabeça              | - |
 | **TOTAL**  |                                                | R$
 
-Observações: A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
+**Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
 Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robo.
 
 ## Imagem do Circuito
@@ -33,3 +34,4 @@ Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas
 
 ## Alunos
 - Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
+- Matheus Learte...
