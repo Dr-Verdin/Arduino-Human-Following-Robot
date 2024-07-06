@@ -41,7 +41,7 @@ A seguir estará listado as dificuldades que enfrentamos na realização do proj
 
 ## Agradecimentos
 
-Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto e ao nosso veterano Bom Dia:EMOJICODE:sun que nos ajudou à finalizar esse projeto.
+Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto e ao nosso veterano Bom Dia:sun_with_face: que nos ajudou à finalizar esse projeto.
 
 ## Alunos
 
