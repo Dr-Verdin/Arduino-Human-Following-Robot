@@ -20,7 +20,6 @@ O material utilizado está disponivel na pasta "Material".
 | 1          | kit 40 jumpers fêmea                           | [R$11,40](https://www.mercadolivre.com.br/cabo-wire-jumper-fmea-x-fmea-20-cm-40pcs/p/MLB28119264#searchVariation%3DMLB28119264%26position%3D2%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3D4d536945-f704-4bfe-935a-49fe5ed20672)   |
 |            | Base de acrílico (qualquer uma serve desde que caibá os componentes) |    -     |
 | **TOTAL**  |                                                | R$215,64 |
->>>>>>> 532f75d4452dab1af28ec2a334cdba2d26a1af39
 
 **Observações:** A maioria dos componentes foi adquirido com o orientador do projeto, ou seja, muito provavelmente pode ter variações de valores em relação aos preços da tabela. 
 Os componentes que tivemos que comprar foram 1 Sensor de Obstáculo Infravermelho, 1 Suporte para 3 Baterias de Litio 18650 e o Motor Shield L293D; Além disso, tivemos que confessionar (em papelão), o "pescoço" e a "cabeça" do robo.
@@ -53,7 +52,12 @@ A seguir estará listado as dificuldades que enfrentamos na realização do proj
 
 - O vídeo com o projeto original tem origem indiana e foi postado à 4 anos atrás, então tivemos um pequeno trabalho para identificar os componentes e buscar semelhantes caso a necessidade pedisse; 
 - Quando compramos os componentes faltantes, acabamos comprando o Suporte de Bateria igual ao do vídeo (de 2 baterias), o que foi um problema mais adiante, pois os motores da base eram de 6V (12V no total, pois só usamos dois motores DC), ou seja, precisava, no nosso caso, de um Suporte de 3 Baterias. Felizmente o nosso orientador tinha esse suporte e não precisamos comprar outro;
-- 
+- O resto da montagem foi tranquila o próximo problema surgiu na hora de passar o código para o Arduino. Essa foi nossa primeira vez usando um, então tivemos adquirir um conhecimento básico, além disso modificamos o código original ao nosso favor (como o projeto original havia 4 rodas e o nosso somente 2, excluimos as duas rodas em excesso do codigo original. Ademais diminuímos a velocidade do robo);
+- Além disso, os nossos computadores pessoais não conseguiam passar o código para o Arduino (ele não detectava nenhuma Port), então tivemos que ir no laboratório da universidade para usar os computadores de lá para passar o nosso código;
+- Depois de passarmos o código para o Arduino pensavamos que haviamos finalizado, porém esse pensamento foi ofuscado depois de inserirmos as baterias. O robo começava a girar em torno dele próprio (drift) ou corria em linha reta até bater em algum lugar, e para resolvermos esse problema levou muito tempo, tanto que no final descobrimos que o problema abrangia muito mais do que esperavamos e para resolvermos isso tivemos a ajuda de um de nossos veteranos ("Bom Dia :sun_with_face:"):
+    - Uma lição muito importante que qualquer um deve saber em robotica é que ela é igual programação, a todo momento tem que ir testando para ver se tudo está correndo bem, e não saber disso foi o nosso principal erro. Antes de pedirmos ajuda para um veterano pensavamos que o problema estava no código, pois aparentemente todo o resto estava correto, mas o problema era no próprio Hardware, mais especificamente mau contato entre a cabeça e o Motor Shield e que o Sensor de Distância Ultrassônico não estavá funcionando corretamente;
+    - Isso foi descoberto fazendo testes com os sensores e no momento em que percebemos que eles não estavam funcionando corretamente descobrimos o mau contato com o Motor Shield e que o Sensor de Distância Ultrassônico estava medindo a distancia errada, mesmo sem mau contato;
+    - Esse sem dúvida foi o pior bug, levou muitas horas para debugá-lo, até horas de sono, pois a apresentação era no dia seguinte e estavamos ficando sem tempo, mas o robo ficou pronto algumas horas antes felizmente.
 
 ## Resultado final do projeto
 ### Imagens do projeto
