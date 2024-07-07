@@ -75,5 +75,5 @@ Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo [Simões 
 
 ## Alunos
 
-- Camila Piscioneri Magalhães ([Dr. Verdin :alien:](https://github.com/Dr-Verdin)).
+- Camila Piscioneri Magalhães ([Dr. Verdin :seedling:](https://github.com/Dr-Verdin)).
 - Matheus Guilherme Ferreira Mendonça Learte ([Matheus-Learte :musical_note:](https://github.com/Matheus-Learte)).
