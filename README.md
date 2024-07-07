@@ -34,7 +34,7 @@ A seguir estará o passo a passo para a montagem do robô de acordo com a nossa 
 4. Começando a montagem da cabeça:
     1. Fizemos peças improvisadas de papelão para a montagem da cabeça, pois o tempo era muito curto para aprendermos à mexer com uma impressora 3D da universidade:
 
-    <img src="">"moldes"
+    <img src="./Material/moldes.jpeg">
 
     2. Com as peças já prontas colamos o Servo Motor na base maior do "pescoço";
     3. Para a "cabeça" encaixamos a máscara no Sensor de Distância Ultrassônico e em seguida colamos os dois Sensores de Obstáculo Infravermelhos nas laterias da máscara. Também colamos uma viseira em cima da cabeça;
