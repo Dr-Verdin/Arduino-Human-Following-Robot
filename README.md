@@ -62,7 +62,12 @@ A seguir estará listado as dificuldades que enfrentamos na realização do proj
 ## Resultado final do projeto
 ### Imagens do projeto
 
+<img src="./Material/robo_frontal.jpeg">
+<img src="./Material/robo_superior.jpeg">
+
 ### Vídeo do projeto
+
+[link do vídeo no Youtube](https://youtu.be/R6QcyYe4CaU).
 
 ## Agradecimentos
 
